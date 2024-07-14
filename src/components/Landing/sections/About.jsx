@@ -1,5 +1,3 @@
-'use client';
-
 import { motion } from 'framer-motion';
 import { TypingText } from '../components';
 import arrowDownImg from "../public/arrow-down.svg"

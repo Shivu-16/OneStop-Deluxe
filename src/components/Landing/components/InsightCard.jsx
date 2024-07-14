@@ -1,5 +1,3 @@
-'use client';
-
 import { motion } from 'framer-motion';
 import arrowImg from '../public/arrow.svg'
 import { fadeIn } from '../utils/motion';

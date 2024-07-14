@@ -1,5 +1,3 @@
-'use client';
-
 import { motion } from 'framer-motion';
 import mapImg from "../public/map.png"
 import peopleOneImg from "../public/people-01.png"

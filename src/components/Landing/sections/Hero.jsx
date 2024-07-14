@@ -1,5 +1,3 @@
-'use client';
-
 import { motion } from 'framer-motion';
 import coverImg from "../public/cover.png"
 import stampImg from "../public/stamp.png"
